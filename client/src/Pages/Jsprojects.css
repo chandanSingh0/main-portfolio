@@ -1,0 +1,26 @@
+.jsprojects {
+  height: 100vh;
+  padding: 10vh 0px;
+  overflow-y: scroll;
+  background-color: #b2dfdb;
+}
+.jsprojects iframe {
+  margin-bottom: 7px;
+}
+.jsprojects a.github {
+  margin-bottom: 35px;
+}
+.jsprojects a.github img {
+  width: 20px;
+  margin-top: -5px;
+  transition: 0.2s ease-in;
+  margin-bottom: 0px;
+}
+.jsprojects .btn:hover img {
+  filter: brightness(0) invert(1);
+  /* filter: brightness(0); */
+}
+.jsprojects .js img {
+  width: 100%;
+  margin-bottom: 20px;
+}

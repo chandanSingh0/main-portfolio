@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "coursename": "B.Tech in Civil Engineering",
+    "courseyear": "2019",
+    "institute": "AKTU University",
+    "grade": "68% Percentage"
+  },
+  {
+    "id": 2,
+    "coursename": "Intermediate",
+    "courseyear": "2014",
+    "institute": "Army Public School",
+    "grade": "72% Percentage"
+  },
+  {
+    "id": 3,
+    "coursename": "Matriculation",
+    "courseyear": "2013",
+    "institute": "Army Public School",
+    "grade": "7.4"
+  }
+]
